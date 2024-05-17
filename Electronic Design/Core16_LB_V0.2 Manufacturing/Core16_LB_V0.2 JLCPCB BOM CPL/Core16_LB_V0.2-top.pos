@@ -1,0 +1,28 @@
+### Footprint positions - created on 2024-05-17T07:41:45-0500 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                  Package                                  PosX       PosY       Rot  Side
+CM1       Core_Memory_4x4_Matrix_Front_Facing  core_16_6.75mm_square_front_facing    17.6300    25.3900    0.0000  top
+D21       SK6812                               4960_ADA_REV_RGB_LED_short_pads        7.5000    35.5250   45.0000  top
+D22       SK6812                               4960_ADA_REV_RGB_LED_short_pads       14.2500    35.5250   45.0000  top
+D23       SK6812                               4960_ADA_REV_RGB_LED_short_pads       21.0000    35.5250   45.0000  top
+D24       SK6812                               4960_ADA_REV_RGB_LED_short_pads       27.7500    35.5250   45.0000  top
+D25       SK6812                               4960_ADA_REV_RGB_LED_short_pads        7.5000    28.7750   45.0000  top
+D26       SK6812                               4960_ADA_REV_RGB_LED_short_pads       14.2500    28.7750   45.0000  top
+D27       SK6812                               4960_ADA_REV_RGB_LED_short_pads       21.0000    28.7750   45.0000  top
+D28       SK6812                               4960_ADA_REV_RGB_LED_short_pads       27.7500    28.7750   45.0000  top
+D29       SK6812                               4960_ADA_REV_RGB_LED_short_pads        7.5000    22.0250   45.0000  top
+D30       SK6812                               4960_ADA_REV_RGB_LED_short_pads       14.2500    22.0250   45.0000  top
+D31       SK6812                               4960_ADA_REV_RGB_LED_short_pads       21.0000    22.0250   45.0000  top
+D32       SK6812                               4960_ADA_REV_RGB_LED_short_pads       27.7500    22.0250   45.0000  top
+D33       SK6812                               4960_ADA_REV_RGB_LED_short_pads        7.5000    15.2750   45.0000  top
+D34       SK6812                               4960_ADA_REV_RGB_LED_short_pads       14.2500    15.2750   45.0000  top
+D35       SK6812                               4960_ADA_REV_RGB_LED_short_pads       21.0000    15.2750   45.0000  top
+D36       SK6812                               4960_ADA_REV_RGB_LED_short_pads       27.7500    15.2750   45.0000  top
+J3        ALT._BATT.                           PinSocket_1x02_P2.54mm_Vertical       77.6250    46.5500    0.0000  top
+L3        Core_64_M-+S_Buttons_4mm             Core64-M_-_+_S_Buttons                43.4825     5.4000    0.0000  top
+SW1       SK12D07L4B                           SK12D07VG4                            81.6300    44.6000   90.0000  top
+U1        PICO_W                               Pico_SC0915_THRUHOLE_CUTOUTS          60.9600    25.4000  -90.0000  top
+X8        SAO_conn_SFH11-NBPC-D03-ST-BK        Badgelife-SAOv169-BADGE-2x3           69.6000    46.3300    0.0000  top
+## End
